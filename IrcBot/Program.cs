@@ -25,7 +25,7 @@ namespace IrcBot {
 
             channels.Add(owner); //Always join owners channel, so it is easy command the bot.
             //channels.Add("username"); // twitch.tv/username
-
+            
             //                          /Bot settings
 
 
