@@ -1,2 +1,4 @@
 # TwitchIRCbot
-Simple Twitch IRC Bot, still needs alot of work.
+Simple Console Application Twitch IRC Bot, still needs alot of work.
+
+
